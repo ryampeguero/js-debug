@@ -86,5 +86,5 @@ function displayEvenNumbers() {
     }
     return evenNumbers;
 }
-console.log("ciao", displayEvenNumbers());
+console.log(displayEvenNumbers());
  // dovrebbe restituire [2,4,6,8]
